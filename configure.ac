@@ -184,12 +184,6 @@ AC_ARG_ENABLE([glibc-back-compat],
   [use_glibc_compat=$enableval],
   [use_glibc_compat=no])
 
-AC_ARG_ENABLE([asm],
-  [AC_HELP_STRING([--enable-asm],
-  [enable assembly compilation (default is no)])],
-  [use_asm=${enableval}],
-  [use_asm=no])
-
 AC_ARG_WITH([system-univalue],
   [AS_HELP_STRING([--with-system-univalue],
   [Build with system UniValue (default is no)])],
