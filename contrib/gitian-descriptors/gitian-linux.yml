@@ -29,7 +29,7 @@ packages:
 - "python"
 remotes:
 - "url": "https://github.com/thnass/TrezarCoin.git"
-  "dir": "bitcoin"
+  "dir": "trezarcoin"
 files: []
 script: |
 
