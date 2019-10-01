@@ -175,9 +175,6 @@ QT_MOC = \
   qt/overviewpage.moc \
   qt/rpcconsole.moc
 
-RES_CSS = \
-  qt/res/css/default.css
-
 QT_QRC_CPP = qt/qrc_bitcoin.cpp
 QT_QRC = qt/bitcoin.qrc
 QT_QRC_LOCALE_CPP = qt/qrc_bitcoin_locale.cpp
